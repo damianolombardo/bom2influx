@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "${env:USERPROFILE}\\anaconda3\\envs\\bom2influx\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
